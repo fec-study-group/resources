@@ -12,6 +12,17 @@ Lint commit messages: https://github.com/conventional-changelog/commitlint
 
 Branching: https://gist.github.com/digitaljhelms/4287848
 
+### Extensiones recomendadas para Vs Code: 
+
+Git History: https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory
+
+GitLens: https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+
+Git Graph: https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
+
+GitHub Pull Requests and Issues: https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github
+
+
 ## git-flow
 
 Cheatsheet: https://github.com/danielkummer/git-flow-cheatsheet
