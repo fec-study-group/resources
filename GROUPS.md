@@ -15,7 +15,7 @@ Scorpion: Gabriel Ramirez, wuido_lunar, Franco Grecco
 ## JavaScript
 
 Santi, Fran: Yoimel R, Nahuel, Cristhian1401, Bongwutsi (Lucas), PePe, cata, GloJiss, Sheephack, anaquinpm, 
-Damian', hellomate, xNightFrostx, JuanGallino, PePe, Sheephack, Giselle
+Damian', hellomate, xNightFrostx, JuanGallino, Giselle
 
 ## React
 
