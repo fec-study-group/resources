@@ -2,7 +2,7 @@
 
 ## Python
 
-Javo: JuanMCe, Denysiuk Brahim, AgosJ, zorro8, Gaston, Vanesa, Carlos Gomez, Fr4nk, manu_elle_gago, g1alexander, Amit
+Javo: JuanMCe, Denysiuk Brahim, AgosJ, zorro8, Gaston, Vanesa, Carlos Gomez, Fr4nk, manu_elle_gago, g1alexander, Amit, aF
 
 ## PHP
 
@@ -19,9 +19,12 @@ Damian', hellomate, xNightFrostx, JuanGallino, PePe, Sheephack, Giselle
 
 ## React
 
-Fran, NASA?: maxie, carsdfj, Danii, Haron Acosta, pipicode
+Nasa, Fran: maxie, carsdfj, Danii, Haron Acosta, pipicode
 
 ## Vue 
 
 Homelander98
 
+## Angular 
+
+Freud
