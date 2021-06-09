@@ -22,6 +22,10 @@ Git Graph: https://marketplace.visualstudio.com/items?itemName=mhutchie.git-grap
 
 GitHub Pull Requests and Issues: https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github
 
+### More...
+
+learngitbranching: https://learngitbranching.js.org/?locale=es_AR
+
 
 ## git-flow
 
@@ -30,6 +34,10 @@ Cheatsheet: https://github.com/danielkummer/git-flow-cheatsheet
 ## Docker
 
 Documentación: https://docs.docker.com/
+
+### Blogs, Articulos, etc..
+
+neon_affogato: https://dev.to/neon_affogato/series/10215
 
 DockerHub: https://hub.docker.com/
 
