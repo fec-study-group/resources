@@ -35,13 +35,13 @@ Cheatsheet: https://github.com/danielkummer/git-flow-cheatsheet
 
 Documentación: https://docs.docker.com/
 
-### Blogs, Articulos, etc..
-
-neon_affogato: https://dev.to/neon_affogato/series/10215
-
 DockerHub: https://hub.docker.com/
 
 docker-compose: https://docs.docker.com/compose/
+
+### Blogs, Articulos, etc..
+
+neon_affogato: https://dev.to/neon_affogato/series/10215
 
 ## Kubernetes
 
