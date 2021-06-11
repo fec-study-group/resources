@@ -1,5 +1,9 @@
 # Guias, Documentacion y Libros sobre temas tratados en el grupo
 
+## Resumen en Notion
+
+https://www.notion.so/webxander/2901022a659e406d9bdbdeeaa2e2b8d7?v=c8d5f60ff9af4051a0dfee34c0bc3a22
+
 ## Git
 
 Onlime: https://git-scm.com/book/es/v2
