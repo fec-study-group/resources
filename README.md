@@ -33,7 +33,15 @@ learngitbranching: https://learngitbranching.js.org/?locale=es_AR
 
 ## git-flow
 
+git-flow Documentation: https://buildmedia.readthedocs.org/media/pdf/git-flow/latest/git-flow.pdf
+
 Cheatsheet: https://github.com/danielkummer/git-flow-cheatsheet
+
+Flujo de trabajo de Gitflow: https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow
+
+Using git-flow to automate your git branching workflow: https://jeffkreeftmeijer.com/git-flow/
+
+A successful Git branching model: https://nvie.com/posts/a-successful-git-branching-model/
 
 ## Docker
 
