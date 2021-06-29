@@ -16,6 +16,12 @@ Lint commit messages: https://github.com/conventional-changelog/commitlint
 
 Branching: https://gist.github.com/digitaljhelms/4287848
 
+git-extras: https://github.com/tj/git-extras
+
+semantic-release: https://github.com/semantic-release/semantic-release
+
+husky: https://github.com/typicode/husky/
+
 ### Extensiones recomendadas para Vs Code: 
 
 Git History: https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory
